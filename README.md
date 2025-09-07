@@ -111,6 +111,6 @@ The notebook `Image_Detection.ipynb` is organized into the following key parts:
 
 ## 📜 License
 
-This project is for educational and research purposes. Feel free to use and modify.
+This project is licensed under the MIT License. This project is for educational and research purposes. Feel free to use and modify.
 
 ---
